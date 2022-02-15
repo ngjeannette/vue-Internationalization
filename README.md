@@ -1,4 +1,4 @@
-# mtovue
+# vuelocale
 
 ## Project setup
 ```
